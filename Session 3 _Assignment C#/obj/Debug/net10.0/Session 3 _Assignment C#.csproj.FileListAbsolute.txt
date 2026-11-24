@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\bin\Debug\net10.0\Session 3 _Assignment C#.exe
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\bin\Debug\net10.0\Session 3 _Assignment C#.deps.json
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\bin\Debug\net10.0\Session 3 _Assignment C#.runtimeconfig.json
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\bin\Debug\net10.0\Session 3 _Assignment C#.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\bin\Debug\net10.0\Session 3 _Assignment C#.dll
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\bin\Debug\net10.0\Session 3 _Assignment C#.pdb
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\obj\Debug\net10.0\Session 3 _Assignment C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\obj\Debug\net10.0\Session 3 _Assignment C#.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\obj\Debug\net10.0\Session 3 _Assignment C#.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\obj\Debug\net10.0\Session 3 _Assignment C#.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\obj\Debug\net10.0\Session 3 _Assignment C#.dll
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\obj\Debug\net10.0\refint\Session 3 _Assignment C#.dll
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\obj\Debug\net10.0\Session 3 _Assignment C#.pdb
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\obj\Debug\net10.0\Session 3 _Assignment C#.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\obj\Debug\net10.0\ref\Session 3 _Assignment C#.dll
+C:\Users\DELL\source\repos\Session 3 _Assignment C#\Session 3 _Assignment C#\obj\Debug\net10.0\Session .D7392114.Up2Date
